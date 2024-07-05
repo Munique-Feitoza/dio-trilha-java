@@ -13,7 +13,7 @@ public class TiposVariaveis {
 
         //variaveis VS constantes
         int numero = 1;
-        numero = 2;
+        numero = 3;
         int numeros = numero + numeroCurto;
         final double VALOR_DE_PI = 3.14;
         System.out.println(numeros);
