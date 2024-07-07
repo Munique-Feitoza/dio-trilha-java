@@ -1,4 +1,4 @@
-package src.com.master.clinical.service;
+package com.master.clinical.service;
 
 import com.master.clinical.model.Exame;
 
