@@ -20,4 +20,3 @@ public class School {
       student3.sex= Sex.FEMALE;
     }
 }
-j
